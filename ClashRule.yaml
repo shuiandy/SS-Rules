@@ -10742,8 +10742,8 @@
 - DOMAIN-SUFFIX,apple.news,Apple
 
 # > Apple CDN
-# - PROCESS-NAME,storedownloadd,Apple
-# - USER-AGENT,com.apple.appstored*,Apple
+- PROCESS-NAME,storedownloadd,Apple
+- USER-AGENT,com.apple.appstored*,Apple
 - DOMAIN,aod.itunes.apple.com,Apple
 - DOMAIN,api.smoot.apple.cn,Apple
 - DOMAIN,appldnld.apple.com,Apple
